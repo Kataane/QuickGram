@@ -1,8 +1,6 @@
 // Global using directives
 
 global using System.Text;
-global using FastTelegramBotFramework;
-global using FastTelegramBotFramework.Behaviors;
 global using MediatR;
 global using Microsoft.Extensions.Caching.Distributed;
 global using QuickGram.BotBehaviors;

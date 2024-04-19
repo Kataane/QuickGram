@@ -1,4 +1,6 @@
-﻿namespace QuickGram.Pooling;
+﻿using QuickGram.Mediator;
+
+namespace QuickGram.Pooling;
 
 public class UpdateHandler(IServiceProvider serviceProvider) : IUpdateHandler, IDisposable
 {
